@@ -8,3 +8,5 @@
 - install postgresql
 - install mysql with phpmyadmin
 - install zsh
+- install haproxy
+- install nginx
